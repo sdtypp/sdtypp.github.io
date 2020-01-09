@@ -1,4 +1,6 @@
-轮播频道,#genre#
+SDT频道,#genre#
+CCTV-1,rtmp://58.200.131.2:1935/livetv/cctv1hd#http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/btv1_2_hd.m3u8
 邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rZ6Vvqy7q.flv?uuid=
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 好莱坞电影,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
@@ -6,14 +8,15 @@
 漫威电影,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 灾难电影,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 丧尸电影,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-动漫大电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-CHC高清电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-CHC家庭电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
-CHC动作电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
+HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+HBO原創,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+HBO強檔,http://pili-live-hdl.qhmywl.com:80/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
+星衛電影台,P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
+美亞電影台,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+東森電影,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
 
-CIBN,#genre#
+CIBN频道,#genre#
 CIBN电影,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN嗨播,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN军事,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -33,43 +36,4 @@ CIBN炫佳动漫,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIB
 CIBN童学世界,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN文化中国,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN艺术院线,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-
-NewTV,#genre#
-NewTV中国功夫,http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
-NewTV健康有约,http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
-NewTV军事评论,http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场,http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
-NewTV动作电影,http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-NewTV动画王国,http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-NewTV古装剧场,http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
-NewTV家庭剧场,http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
-NewTV惊悚悬疑,http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
-NewTV搏击剧场,http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
-NewTV明星大片,http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-NewTV海外剧场,http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
-NewTV炫舞未来,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-NewTV爱情喜剧,http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-NewTV电竟,http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
-NewTV精品大剧,http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
-NewTV精品电影,http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
-NewTV精品记录,http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-NewTV金牌综艺,http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-
-港台频道,#genre#
-鳳凰資訊,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
-好萊塢電影,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
-星衛電影台,P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
-美亞電影台,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
-星空衛視,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
-東森電影,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
-HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
-HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
-HBO原創巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
-HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
-FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
-FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
-FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
-FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
-FOX動作電影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
-FOX警匪電影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
 
